@@ -19,5 +19,8 @@
   "devDependencies": {
     "@types/node": "^16.4.10",
     "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "super-module": "file:../super-module"
   }
 }
